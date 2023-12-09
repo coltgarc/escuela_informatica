@@ -1,2 +1,2 @@
 # escuela_informatica
-My personal Obsidian notes related to programming, networks &amp; cybersecurity.
+My personal notes taken while learning aspects of programming, networks and cybersecurity.
