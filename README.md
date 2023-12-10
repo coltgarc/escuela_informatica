@@ -1,4 +1,4 @@
-# escuela_informatica
+# Escuela Informática
 My personal notes taken while learning aspects of programming, networks and cybersecurity.
 
 ![[Maple.jpg]]
