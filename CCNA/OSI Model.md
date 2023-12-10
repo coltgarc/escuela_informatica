@@ -1,4 +1,7 @@
 ### Networking models categorize and provide a structure for networking protocols and standards.
+
+----
+
 #### protocols
 a set of (logical) rules defining how networking devices and software should work
 #### networking model 
@@ -16,6 +19,7 @@ a conceptual model that categorizes and standardizes the different functions in 
 created by the ISO
 functions are divided into 7 layers
 
+----
 ## The 7 layers
 
 ### A)ll P)eople S)eem T)o N)eed D)ata P)rocessing
@@ -45,7 +49,7 @@ segments and reassembles data for communicaitons between end hots
 breaks large pieces of data into smaller segments which prevents errors and is easier to transfer
 provides host-to-host communication
 	or (end to end communication)
-adds a "L4 header" to the end of the data being encapsulated to create a
+adds a "L4 header" to the end of the data being encapsulated to create a segment.
 
 ----
 
