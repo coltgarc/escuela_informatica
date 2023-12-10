@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a798e5590f7691c5",
+        "id": "f21dc80c3bdf2483",
         "type": "tabs",
         "children": [
           {
-            "id": "a85341accdcf361e",
+            "id": "123638f4f8fde4e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/TCP,IP Suite.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/TCP,IP Suite.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/TCP,IP Suite.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/TCP,IP Suite.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85341accdcf361e",
+  "active": "123638f4f8fde4e8",
   "lastOpenFiles": [
-    "CCNA/OSI Model.md",
-    "CCNA/TCP,IP Suite.md",
+    "bf993acf-1406-4caa-b203-79bf3d291ec4.jpg",
     "README.md",
+    "Maple.jpg",
+    "CCNA/TCP IP Suite.md",
+    "CCNA/TCP,IP Suite.md",
+    "CCNA/OSI Model.md",
     "CCNA/whadduzisslukliek testing.md",
     "CyberSecurity",
     "Python",
