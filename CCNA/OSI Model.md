@@ -45,7 +45,7 @@ establishes, manages and terminates connections between the local application (f
 
 ----
 #### 4) Transport Layer (PDU = Segment)
-segments and reassembles data for communicaitons between end hots
+segments and reassembles data for communications between end hots
 breaks large pieces of data into smaller segments which prevents errors and is easier to transfer
 provides host-to-host communication
 	or (end to end communication)
@@ -57,7 +57,7 @@ adds a "L4 header" to the end of the data being encapsulated to create a segment
 another header, "L3 header," is appended to the data unit
 provides connectivity between end hosts on different networks (ie. outside of the lan)
 provides logical addressing (ip addresses)
-provides path selection between source and destination
+provides **Path Selection** between source and destination
 routers operate at layer 3
 
 ----
@@ -65,16 +65,16 @@ routers operate at layer 3
 Layer 2 header AND trailer
 provides node-to-node connectivity and data transfer
 1) like pc to switch, switch to router, router to router
-defines how data is formatted for transmission over a physical medium
+**defines how data is formatted for transmission over a physical medium**
 detects and possibly corrects physical layer errors
 uses layer 2 addressing, separate from layer 3 addressing
-switches operate at this layer
+**Switches operate at this layer**
 
 ----
 
 #### 1) Physical Layer (PDU = Bit)
 defines physical characteristics of the medium used to transfer data between devices
-for example, voltage, max trans distances, physical connectors
-digital bits are converted into electrical or radio signals
+for example, voltage, max transmission distances, physical connectors
+digital bits are converted into **electrical (copper/UTP), radio (wireless), or optical (fiber-optic)** 
 all of the information in day 2's video are from Layer 1, the physical layer of the OSI model
-the FRAMES are sent over, physically
+the bits are sent over, physically
