@@ -24,35 +24,37 @@ functions are divided into 7 layers
 
 ### A)ll P)eople S)eem T)o N)eed D)ata P)rocessing
 
-### The Top 3 (PDU = "Data")
-#### 7) Application layer
+### The Top 3
+#### 7) Application layer (PDU = "Data")
 interacts with software applications like web browsers
 HTTP and HTTPS are layer 7 protocols
 functions of layer 7
 	identifying communication partners
 	synchronizing communication
 
-#### 6) Presentation layer
+#### 6) Presentation layer (PDU = "Data")
 data in the application layer is in "Application format"
 it needs to be translated to a different format to be sent over the network
 the presentation layer's job is to translate between application and network formats.
 for example, encryption of data as it is sent, and decryption of data as it is received.
 also translates between different application-layer formats
 
-#### 5) Session Layer
+#### 5) Session Layer (PDU = "Data")
 controls dialogues (sessions) between hosts
 establishes, manages and terminates connections between the local application (for example, your web browser) and the remote application (for example, youtube).
 
+### Segmenting
+
 ----
 #### 4) Transport Layer (PDU = Segment)
-segments and reassembles data for communications between end hots
-breaks large pieces of data into smaller segments which prevents errors and is easier to transfer
-provides host-to-host communication
+segments and reassembles data
+provides **host-to-host** communication
 	or (end to end communication)
+breaks large pieces of data into smaller segments which prevents errors and is easier to transfer
 adds a "L4 header" to the end of the data being encapsulated to create a segment.
 
 ----
-
+### Addressing
 #### 3) Network Layer (PDU = Packet)
 another header, "L3 header," is appended to the data unit
 provides connectivity between end hosts on different networks (ie. outside of the lan)
@@ -61,6 +63,7 @@ provides **Path Selection** between source and destination
 routers operate at layer 3
 
 ----
+### Linking
 #### 2) Data Link Layer (PDU = Frame)
 Layer 2 header AND trailer
 provides node-to-node connectivity and data transfer

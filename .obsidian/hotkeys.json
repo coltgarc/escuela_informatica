@@ -1,1 +1,43 @@
-{}
+{
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
+}

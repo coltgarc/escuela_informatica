@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Variables, Strings and Numbers.md",
+                "file": "CCNA/TCP IP Suite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Variables, Strings and Numbers.md",
+                "file": "CCNA/TCP IP Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Variables, Strings and Numbers.md",
+                "file": "CCNA/TCP IP Suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Variables, Strings and Numbers.md"
+                "file": "CCNA/TCP IP Suite.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "d828974cc4f01e2d",
   "lastOpenFiles": [
-    "CCNA/TCP IP Suite.md",
-    "Python/Variables, Strings and Numbers.md",
     "CCNA/OSI Model.md",
+    "CCNA/TCP IP Suite.md",
+    "Images/Maple.jpg",
+    "Images/TCPIP_Diagram.png",
+    "Python/Variables, Strings and Numbers.md",
     "README.md",
+    "Images",
     "bf993acf-1406-4caa-b203-79bf3d291ec4.jpg",
-    "Maple.jpg",
     "CCNA/TCP,IP Suite.md",
     "CCNA/whadduzisslukliek testing.md",
     "CyberSecurity",
