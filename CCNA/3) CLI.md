@@ -53,5 +53,5 @@ running-config VS startup-config
 *no {command}*
 	removes individual commands from config file
 		encrypted pw's STAY encrypted
-*run {privileged exec level command}*
+*run/do {privileged exec level command}*
 	executes a privileged-exec level command from global configuration mode
